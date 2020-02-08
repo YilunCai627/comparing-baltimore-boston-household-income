@@ -6,7 +6,7 @@
 
 ## Data Insights
 
-### **1. Differences in overall economic conditions** 
+### **1. Differences in Overall Economic Performances** 
 
 Here is the comparison of overall economic performances in Boston and Baltimore based on basic statistics of household income:  
 
@@ -32,7 +32,7 @@ Having racial diversity, however, is far from enough to guarantee that opportuni
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Racial%20Wealth%20Divide_BAL.png)  
 
-Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. Therefore, it is necessart to identify better practices and policies that can address the racial wealth divide. 
+Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. **Therefore, it is necessary to identify better practices and policies that can address economic performance inequality and the racial wealth divide in different cities.**
 
 ## Data Analysis
 Want to learn more details about data manipulation in Excel to analyze and visualize the result? Click [***here***](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Manipulation.md) for a simple **step-by-step instructions**!
