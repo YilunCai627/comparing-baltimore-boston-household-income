@@ -17,7 +17,7 @@ From the basic calculation of household income statistics in both cities, we can
 
 ### **2. How about Population Diversity？**
 
-The chart below helps facilitate clear comparisons of the population diversity between Boston and Baltimore based on the amount of vilid data at the census tract level.   
+The chart below helps facilitate clear comparisons of the population diversity between Boston and Baltimore based on the amount of valid data at the census tract level.   
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Population%20Diversities.png)
 
@@ -32,7 +32,7 @@ Having racial diversity, however, is far from enough to guarantee that opportuni
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Racial%20Wealth%20Divide_BAL.png)  
 
-Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. **Therefore, it is necessary to identify better practices and policies that can address economic performance inequality and the racial wealth divide in different cities.**
+Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. This racial income gap is most pronounced between white households and racial minorities. Interestingly, the very small Asian community has been on a par with or has even exceeded white income based on limited available data. **Therefore, it is necessary to identify better practices and policies that can address the economic inequality and the racial wealth divide in different US cities.**
 
 ## Data Analysis
 Want to learn more details about data manipulation in Excel to analyze and visualize the result? Click [***here***](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Manipulation.md) for a simple **step-by-step instructions**!
