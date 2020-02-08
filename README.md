@@ -12,6 +12,8 @@ Here is the comparison of overall economic performances in Boston and Baltimore 
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Income_CitiesComparison.png)  
 
+From the basic calculation of household income statistics in both cities, we can have a sketch of the entire economic conditions. Basically, Boston performs better as regards to various measurements related to household income.
+
 
 ### **2. How about Population Diversity？**
 
@@ -24,9 +26,7 @@ Boston has a strong mix of people from several different racial backgrounds, whi
 
 ### **3. Similarities in Racial Income Gap**
 
-Having racial diversity, however, is far from enough to guarantee that opportunity is equal.  
-
-Below charts display the racial wealth divide in Boston and Baltimore based on levels of household income determined by percentile of average income in each city obtained from [Opportunity Atlas](https://www.opportunityatlas.org):  
+Having racial diversity, however, is far from enough to guarantee that opportunity is equal. Below charts display the racial wealth divide in Boston and Baltimore based on levels of household income determined by percentile of average income in each city obtained from [Opportunity Atlas](https://www.opportunityatlas.org):  
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Racial%20Wealth%20Divide_BOS.png)
 
@@ -35,7 +35,7 @@ Below charts display the racial wealth divide in Boston and Baltimore based on l
 Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. Therefore, it is necessart to identify better practices and policies that can address the racial wealth divide. 
 
 ## Data Analysis
-Want to learn more details about data manipulation in Excel to analyze and visualize the result? Click [***here***](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Manipulation.md) for a simple step-by-step instructions!
+Want to learn more details about data manipulation in Excel to analyze and visualize the result? Click [***here***](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Manipulation.md) for a simple **step-by-step instructions**!
 
 ## Data Sources  
 1. [Household Income by Census Tract, Race in Baltimore](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/tree/master/original%20data/BALTIMORE)
