@@ -1,4 +1,4 @@
-# Comparing the Annual Household Income in Baltimore and Boston
+# Comparing the Household Income in Baltimore and Boston
 ## Background
 With the steady development of the US economy, racial household income inequality remains a challenging social issue. There is greater opportunity to identify best practices and policies that can address the racial wealth divide. Household income levels vary across different race in the United States.  
 
