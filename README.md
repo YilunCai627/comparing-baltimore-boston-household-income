@@ -1,19 +1,38 @@
 # Comparing the Household Income in Baltimore and Boston
 ## Background
-With the steady development of the US economy, racial household income inequality remains a challenging social issue. There is greater opportunity to identify best practices and policies that can address the racial wealth divide. Household income levels vary across different race in the United States.  
+ Household income statistics is instructive when comparing economic well-being and living standards between different cities. With the steady development of the US economy, however, racial household income inequality remains a challenging social issue. Household income levels vary across different race in the United States.  
 
-To what extent is the economic inequalities by race within a city? How is the situation different from cities? Which neighborhoods in America offer children the best chance to rise out of poverty? We'll compare racial income gap and population diversity for Baltimore and Boston with open data from the Opportunity Insights team’s [Opportunity Atlas](https://www.opportunityatlas.org).
+  *How is the overall economic performance different from cities? To what extent is the economic inequalities by race? We'll compare the household income by race in Boston and Baltimore and further explore the racial income gap and population diversity with open data from the Opportunity Insights team’s [Opportunity Atlas](https://www.opportunityatlas.org).*
 
-## Data Insights  
-![Here is the overall comparison of economic situations in Boston and Baltimore based on basic statistics of household income:](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Income_CitiesComparison.png#width-full)
+## Data Insights
+
+### 1. Differences in overall economic conditions 
+
+Here is the comparison of overall economic performances in Boston and Baltimore based on basic statistics of household income:  
+
+![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Income_CitiesComparison.png)  
 
 
-Below charts furthure display the racial wealth divide in Boston and Baltimore based on the level of household income:  
+### 2. How about Population Diversity？
 
-![Boston](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Racial%20Wealth%20Divide_BOS.png)
+The chart below helps facilitate clear comparisons of the population diversity between Boston and Baltimore based on the amount of vilid data at the census tract level.   
 
-![Baltimore](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Racial%20Wealth%20Divide_BAL.png)
+![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Population%20Diversities.png)
 
+Boston has a strong mix of people from several different racial backgrounds, while the racial composition of Baltimore is more concentrated. In fact, according to [new Census data](https://www.bostonindicators.org/article-pages/2018/september/boston-diversity) released in 2018, Boston is now the sixth most diverse U.S. city.
+
+
+### 3. Similarities in Racial Income Gap
+
+Having racial diversity, however, is far from enough to guarantee that opportunity is equal.  
+
+Below charts display the racial wealth divide in Boston and Baltimore based on levels of household income determined by percentile of average income in each city obtained from [Opportunity Atlas](https://www.opportunityatlas.org):  
+
+![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Racial%20Wealth%20Divide_BOS.png)
+
+![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Racial%20Wealth%20Divide_BAL.png)  
+
+Through the above results, we have a clearer understanding for the challenges of racial economic inequality in both cites. Therefore, it is necessart to identify better practices and policies that can address the racial wealth divide. 
 
 
 ## Data Sources  
