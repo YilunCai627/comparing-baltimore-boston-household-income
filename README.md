@@ -9,8 +9,7 @@ Here is the overall comparison of economic situations in Boston and Baltimore ba
 
  <img src="https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Income_CitiesComparison.png" align=center />
 
-Below charts future display the racial wealth divide in Boston and Baltimore based on the level of household income：  
- <img src="https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Racial%20Wealth%20Divide_BOS.png" align=center />  
+![Below charts future display the racial wealth divide in Boston and Baltimore based on the level of household income:--w70](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Racial%20Wealth%20Divide_BOS.png)
 
   <img src="https://github.com/YilunCai627/comparing-baltimore-boston-household-income/blob/master/Data%20Visulization_Charts/Racial%20Wealth%20Divide_BAL.png" align=center />
 
