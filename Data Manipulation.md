@@ -11,7 +11,7 @@
  
 
 ### 3. Basic statistics for each city using build-in functions
-* Calculate the **MIN/MAX/AVERAGE/MEDIAN** of household income using Excel's build-in functions to have a overview of the differences between cities.  
+* Calculate the **MIN/MAX/AVERAGE/MEDIAN** of household income using Excel's build-in calculations to have a overview of the differences between cities.  
 
 * **COUNT** the number of available data for different races to compare the ethnic diversity.
 
@@ -20,7 +20,7 @@
 
 * Use **IF statement** in Excel to filter the level of household income and reorganize the data by assigning labels of different income levels.  
 
-### 5. Generate chart in different types for results visualization.  
+### 5. Generate charts in different types for results visualization.  
 * To compare the overall household income between different cities, insert **Clustered Bar Chart** to show the similarities and differences.
 
 * To compare the racial wealth divide in each city, insert **Stacked Column Chart** to display the household income level by race.
