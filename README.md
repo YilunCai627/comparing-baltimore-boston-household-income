@@ -21,7 +21,12 @@ The chart below helps facilitate clear comparisons of the population diversity b
 
 ![](https://github.com/YilunCai627/comparing-baltimore-boston-household-income/raw/master/Charts/Population%20Diversities.png)
 
-Boston has a strong mix of people from several different racial backgrounds, while the racial composition of Baltimore is more concentrated. In fact, according to [new Census data](https://www.bostonindicators.org/article-pages/2018/september/boston-diversity) released in 2018, Boston is now the sixth most diverse U.S. city.
+Boston has a strong mix of people from several different racial backgrounds, while the racial composition of Baltimore is more concentrated. In fact, according to [new Census data](https://www.bostonindicators.org/article-pages/2018/september/boston-diversity) released in 2018, Boston is now the sixth most diverse U.S. city.  
+
+### **Detour: Python Data Visualizations**
+Python is a widely available and open source computer programming languages to conduct similar data analyses as Microsoft Excel. We'll work with the integrated data in Excel Document and implement statistics calculation and data visualization using Python. The [**Python notebook (.ipynb) files**]() in this repository contains the process of data manipulation. The figure below display the pie chart generated in python using the [*matplotlib*](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html) module.  
+
+![]()
 
 
 ### **3. Similarities in Racial Income Gap**
